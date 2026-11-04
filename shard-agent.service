@@ -1,0 +1,10 @@
+[Unit]
+Description=Shard guest agent (vsock exec)
+After=network.target
+
+[Service]
+ExecStart=/opt/shard-mvp/shard_agent.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
