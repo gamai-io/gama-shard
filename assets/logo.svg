@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="GAMA">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#6366f1"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="#0b1220"/>
+  <path d="M372 178a156 156 0 1 0 0 156" fill="none" stroke="url(#g)" stroke-width="52" stroke-linecap="round"/>
+  <circle cx="372" cy="256" r="36" fill="url(#g)"/>
+  <path d="M92 420h104" stroke="#22d3ee" stroke-width="22" stroke-linecap="round" opacity=".85"/>
+</svg>

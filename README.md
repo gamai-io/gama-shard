@@ -1,5 +1,10 @@
 # gama-shard
 
+<p align="center"><img src="assets/logo.svg" width="96" alt="GAMA logo"></p>
+
+[![Version](https://img.shields.io/badge/version-v0.1.0-22d3ee)](https://github.com/gamai-io/gama-shard/releases)
+
+
 Persistent **Firecracker microVM workspaces**: cold open ~2.3 s, warm exec ~10 ms,
 suspend/resume with snapshot backup, HTTP API and an MCP wrapper (stdio).
 
